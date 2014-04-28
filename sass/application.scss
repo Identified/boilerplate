@@ -1,0 +1,10 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "theme/theme";
+@import "../bower_components/bourbon/dist/bourbon.scss";
+@import "../bower_components/normalize.css/normalize.css";
+@import "../bower_components/sass-css3-mixins/css3-mixins.scss";

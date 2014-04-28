@@ -1,0 +1,127 @@
+@import url(../bower_components/normalize.css/normalize.css);
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../Applications/LiveReload.app/Contents/Resources/SASS.lrplugin/lib/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* -------------------------------------------------------------
+  Sass CSS3 Mixins! The Cross-Browser CSS3 Sass Library
+  By: Matthieu Aussaguel, http://www.mynameismatthieu.com, @matthieu_tweets
+
+  List of CSS3 Sass Mixins File to be @imported and @included as you need
+
+  The purpose of this library is to facilitate the use of CSS3 on different browsers avoiding HARD TO READ and NEVER
+  ENDING css files
+
+  note: All CSS3 Properties are being supported by Safari 5
+  more info: http://www.findmebyip.com/litmus/#css3-properties
+
+  Mixins available:
+    -   background-gradient     - arguments: Start Color: #3C3C3C, End Color: #999999
+    -   background-size         - arguments: Width: 100%, Height: 100%
+    -   border-radius           - arguments: Radius: 5px
+    -   border-radius-separate  - arguments: Top Left: 5px, Top Left: 5px, Bottom Left: 5px, Bottom Right: 5px
+    -   box                     - arguments: Orientation: horizontal, Pack: center, Align: center
+    -   box-rgba                - arguments: R: 60, G: 3, B: 12, Opacity: 0.23, Color: #3C3C3C
+    -   box-shadow              - arguments: X: 2px, Y: 2px, Blur: 5px, Color: rgba(0,0,0,.4)
+    -   box-sizing              - arguments: Type: border-box
+    -   columns                 - arguments: Count: 3, Gap: 10
+    -   double-borders          - arguments: Color One: #3C3C3C, Color Two: #999999, Radius: 0
+    -   flex                    - arguments: Value: 1
+    -   flip                    - arguments: ScaleX: -1
+    -   font-face               - arguments: Font Family: myFont, Eot File Src: myFont.eot, Woff File Src: myFont.woff, Ttf File Src: myFont.ttf
+    -   opacity                 - arguments: Opacity: 0.5
+    -   outline radius          - arguments: Radius: 5px
+    -   resize                  - arguments: Direction: both
+    -   rotate                  - arguments: Degree: 0, M11: 0, M12: 0, M21: 0, M22: 0
+    CSS Matrix Rotation Calculator http://www.boogdesign.com/examples/transforms/matrix-calculator.html
+    -   text-shadow             - arguments: X: 2px, Y: 2px, Blur: 5px, Color: rgba(0,0,0,.4)
+    -   transform               - arguments: Parameters: null
+    -   transition              - arguments: What: all, Length: 1s, Easing: ease-in-out
+    -   triple-borders          - arguments: Color One: #3C3C3C, Color Two: #999999, Color Three: #000000, Radius: 0
+
+------------------------------------------------------------- */
+/* BACKGROUND GRADIENT */
+/* BACKGROUND SIZE */
+/* BORDER RADIUS */
+/* BOX */
+/* BOX RGBA */
+/* BOX SHADOW */
+/* BOX SIZING */
+/* COLUMNS */
+/* DOUBLE BORDERS */
+/* FLEX */
+/* FLIP */
+/* FONT FACE */
+/* OPACITY */
+/* OUTLINE RADIUS */
+/* RESIZE */
+/* ROTATE*/
+/* TEXT SHADOW */
+/* TRANSFORM  */
+/* TRANSITION */
+/* TRIPLE BORDERS */
