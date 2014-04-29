@@ -13,7 +13,8 @@ From the command-line:
 From your 'puter:
 
 Install http://livereload.com/ and add this project (or a copy of it) so that your slim, coffeescript, and sass files are updated.
-    
+Be sure that LiveReload doesn't try to do anything with the stuff in bower_components folder.
+
 
 ### CSS Files ###
 The main CSS file, style.css, is compiled from sass/application.scss which imports all your other stylesheets. Use the theme folder for global stuff and the views folder for very specific CSS changes relating to pages/partials.
