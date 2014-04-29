@@ -1,0 +1,19 @@
+{
+  "name": "sham-button",
+  "main": "stylesheets/sham-button.scss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "homepage": "https://github.com/Identified/sham-button",
+  "_release": "61df0e4440",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "61df0e444064617ec80eaff4558b1e805808e8e1"
+  },
+  "_source": "git://github.com/Identified/sham-button.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/Identified/sham-button.git"
+}

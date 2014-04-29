@@ -1,0 +1,10 @@
+{
+  "name": "sham-grid",
+  "version": "0.0.7",
+  "main": "sham-grid.scss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
